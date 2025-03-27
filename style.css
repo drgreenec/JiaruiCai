@@ -77,7 +77,7 @@
     color: #083464;
 }
 
-@media (max-width: 1250px) {
+@media (max-width: 1200px) {
     .contentnavbar {
         display: flex;
         flex-direction: column;
