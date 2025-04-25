@@ -252,9 +252,9 @@
    #call-to-action p { font-size: 15px; }
 
 
-   /* Research Section
+   /* Research & Publications Section
    /* ----------------------------------------------------------------- */
-   #research-wrapper .columns { margin-bottom: 40px; }
+   #research_and_publications-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
 
